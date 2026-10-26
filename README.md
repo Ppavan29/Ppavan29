@@ -13,12 +13,25 @@ AI & Machine Learning Graduate | Software & Data Engineering Enthusiast
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Technical Competencies & Toolchain
 
-- **Languages:** Python, C++, SQL, JavaScript
-- **AI / ML & Computer Vision:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Hugging Face, RAG pipelines
-- **Backend & Web:** FastAPI, Flask, REST APIs, Node.js
-- **Databases & Tools:** PostgreSQL, MySQL, MongoDB, Git, Docker, Linux
+#### 💻 Programming & Core Foundations
+- **Languages:** Python (Advanced), C++, SQL, JavaScript
+- **Core CS:** Data Structures & Algorithms, Object-Oriented Design (OOP), Multi-threading, Design Patterns
+
+#### 🧠 Artificial Intelligence, Machine Learning & CV
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas
+- **Specializations:** Computer Vision, Deep Learning, Natural Language Processing (NLP), Image Segmentation, Transfer Learning
+- **Modern AI & GenAI:** Retrieval-Augmented Generation (RAG), Vector Embeddings & Similarity Search, Hugging Face Transformers, Prompt Architecture
+
+#### ⚙️ Backend, Systems & APIs
+- **Frameworks:** FastAPI, Flask, Node.js
+- **Architecture:** RESTful Microservices, Asynchronous API Design, Middleware & Authentication, Model Serving Pipelines
+
+#### 🗄️ Databases, Cloud & DevOps
+- **Databases:** PostgreSQL, MySQL, MongoDB, Vector Databases (ChromaDB / FAISS / Qdrant)
+- **DevOps & Infrastructure:** Docker, Git / GitHub Actions (CI/CD), Linux/Unix CLI, Bash Scripting, Postman
+
 
 ---
 
